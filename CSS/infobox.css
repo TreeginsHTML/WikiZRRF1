@@ -1,0 +1,164 @@
+.infobox {
+    position: relative;
+    border: solid;
+    border-color: rgb(80, 197, 198);
+    border-width: 1px;
+    top: 40px;
+    left: 60%;
+    width: 500px;
+    height: 50px;
+    background-color: rgb(80, 197, 198);
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    z-index: 1;
+}
+
+.infobox1 {
+    position: absolute;
+    border: solid;
+    border-color: rgb(80, 197, 198);
+    border-width: 1px;
+    border-radius: 5px;
+    background-color: rgb(10, 15, 20);
+    width: 500px;
+    height: 1500px;
+    left: 60%
+}
+
+.infobox1 img {
+    position: absolute;
+    z-index: 2;
+    width: 500px;
+    margin-top: 38px
+}
+
+.palochka {
+    position: absolute;
+    width: 500px;
+    height: 1px;
+    z-index: 9;
+    background-color: rgb(80, 197, 198);
+    margin-top: 670px;
+}
+
+#circle {
+    position: absolute;
+    z-index: 4;
+    width: 150px;
+    margin-top: 430px;
+    margin-left: 30px;
+}
+
+#flag {
+    position: absolute;
+    z-index: 3;
+    color: rgb(81, 85, 88);
+    font-family: cursive;
+    margin-top: 380px;
+    left: 13%;
+}
+
+#name1 {
+    text-align: center;
+    /* Выравнивание текста по центру */
+    padding-top: 0px;
+    font-family: Martian Mono;
+    color: rgb(10, 15, 20);
+}
+
+#ideology {
+    position: absolute;
+    z-index: 5;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    left: 45%;
+    margin-top: 430px;
+}
+
+#liberalism {
+    position: absolute;
+    z-index: 6;
+    width: 20px;
+    left: 40%;
+    margin-top: 430px;
+}
+
+#liberal-conservatism {
+    position: absolute;
+    z-index: 7;
+    width: 20px;
+    left: 40%;
+    margin-top: 452px;
+}
+
+#conservatism {
+    position: absolute;
+    z-index: 8;
+    width: 20px;
+    left: 40%;
+    margin-top: 469px;
+}
+
+#zrrf1 {
+    position: absolute;
+    z-index: 8;
+    width: 20px;
+    left: 40%;
+    margin-top: 486px;
+}
+
+#zrrf2 {
+    position: absolute;
+    z-index: 8;
+    width: 20px;
+    left: 40%;
+    margin-top: 507px;
+}
+
+#progres {
+    position: absolute;
+    z-index: 8;
+    width: 20px;
+    left: 40%;
+    margin-top: 527px;
+}
+
+#nazi {
+    position: absolute;
+    z-index: 8;
+    width: 20px;
+    left: 40%;
+    margin-top: 546px;
+}
+
+#fascism {
+    position: absolute;
+    z-index: 8;
+    width: 20px;
+    left: 40%;
+    margin-top: 564px;
+}
+
+#ultranazi {
+    position: absolute;
+    z-index: 8;
+    width: 20px;
+    left: 40%;
+    margin-top: 583px;
+}
+
+#despotism {
+    position: absolute;
+    z-index: 8;
+    width: 20px;
+    left: 40%;
+    margin-top: 603px;
+}
+
+#paternalism {
+    position: absolute;
+    z-index: 8;
+    width: 20px;
+    left: 40%;
+    margin-top: 622px;
+}

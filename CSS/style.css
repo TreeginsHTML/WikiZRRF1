@@ -1,0 +1,44 @@
+body {
+    background-image: url('img/fon2.jpg');
+    background-attachment: fixed;
+    display: flex;
+}
+
+body::-webkit-scrollbar {
+    width: 15px;
+}
+
+body::-webkit-scrollbar-track {
+
+    background: #464646;
+}
+
+body::-webkit-scrollbar-thumb {
+    background: #929292;
+}
+
+body::-webkit-scrollbar-thumb:hover {
+    background: #818181;
+}
+
+.rama {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    top: 25px;
+    margin-bottom: 50px;
+    /* Измените это значение на нужный вам отступ */
+    background-color: rgb(10, 15, 20);
+    width: 95%;
+    height: 3000px;
+    /* Замените этот размер на желаемую высоту в пикселях */
+    border-radius: 5px;
+}
+
+#zrrf {
+    color: white;
+    font-family: Roboto Condensed;
+    position: absolute;
+    left: 6%;
+    top: 30px;
+}

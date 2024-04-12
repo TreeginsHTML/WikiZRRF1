@@ -1,0 +1,19 @@
+.fullname b {
+    color: white;
+    position: absolute;
+    font-size: 15px;
+    z-index: 10;
+    left: 10%;
+    margin-top: 685px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.fullname p {
+    position: absolute;
+    z-index: 11;
+    left: 60%;
+    color: white;
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 690px;      
+}
